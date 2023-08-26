@@ -41,4 +41,4 @@ you can also visualize the working of Kruskal's Algorithm and Prims Algorithm fo
 ### Contributers:
 - [Uttam Singh Chauhan](https://github.com/uttam0912 "Uttam Singh Chauhan")
 - [Satveer Saini](https://github.com/satveersaini "Satveer Saini")
-- [Sangramsinh V Patil ](https://github.com/Adii45 "Sangramsinh V Patil")
+- [Sangramsinh V Patil ](https://github.com/sangramsinh96 "Sangramsinh V Patil")
